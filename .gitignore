@@ -1,0 +1,4 @@
+*.log
+*.dta
+*.csv
+.DS_Store

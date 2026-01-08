@@ -5,3 +5,4 @@ gen x = rnormal()
 gen y = 2*x + rnormal()
 reg y x
 * Another comment
+*Comment on integration of vscode

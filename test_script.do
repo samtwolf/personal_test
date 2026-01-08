@@ -1,4 +1,5 @@
 * Test script to confirm Stata runs on Supply
+* Hello from VSCode!
 clear all
 set obs 100
 gen x = rnormal()

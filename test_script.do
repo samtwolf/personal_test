@@ -8,3 +8,4 @@ reg y x
 * Another comment
 *Comment on integration of vscode
 * VSCode extension test #2
+* Claude Code commit test

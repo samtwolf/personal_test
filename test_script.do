@@ -7,3 +7,4 @@ gen y = 2*x + rnormal()
 reg y x
 * Another comment
 *Comment on integration of vscode
+* VSCode extension test #2
